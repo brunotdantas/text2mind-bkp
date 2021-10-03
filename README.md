@@ -1,3 +1,10 @@
+https://brunotdantas.github.io/text2mind-bkp/
+
+## First of all
+I downloaded this Repo and published in my github structure as backup, you can find original content and [creator's](https://github.com/payne/text2mindmap) message below
+
+
+
 ## Please note
 The current version of the tool utilizes some minified JavaScript and CSS code from the original [Text2MindMap.com](http://www.text2mindmap.com), which I didn't personally write. This was originally just meant to be a quick hack for personal use, but seeing as this project has gotten a lot of interest, I'm currently working on replacing the old code with something I've written myself. This should let me properly license the code and later extend the functionality of the site. Stay tuned!
 
